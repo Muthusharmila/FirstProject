@@ -12,5 +12,5 @@ public class ExceptionExe {
 		}
 		System.out.println("program end");
 	}
-
+System.out.println("s");
 }
